@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    border: 1px solid red;
 }
 
 /* HEADER */
@@ -15,6 +16,27 @@ header {
 
 /* BODY */
 
+.jumbotron {
+  background-color: rgb(49, 168, 168);
+  height: 500px;
+}
+
 /* MAIN */
 
+.container {
+  background-color: rgb(49, 105, 168);
+  height: 400px;
+}
+
+.container-big {
+  background-color: rgb(82, 205, 216);
+  height: 400px;
+}
+
 /* FOOTER */
+
+footer {
+  background-color: rgb(13, 36, 61);
+  height: 400px;
+}
+
